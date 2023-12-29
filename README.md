@@ -2,7 +2,7 @@
 I'm Jaanus, a young web developer from Estonia! My main tool of choice is React, with background knowledge in Java and Python. 
 With this expanding skillset I hope to deliver fast, responsive and visually pleasing web applications for myself and others!
 
-- 🔭 You're welcomed to check out my current work at https://jaanuspi-webshop.web.app/
+- 🔭 You're welcomed to check out my current project at https://jaanuspi-webshop.web.app/
 
 Thanks for taking an interest in my github page!
 <!--
