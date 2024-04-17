@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jaanus, a young web developer from Estonia! My main tool of choice is React.
+I'm Jaanus, a young web developer from Estonia!
 
 - 🔭 You're welcomed to check out my portfolio at https://jaanuswebworks.wordpress.com
 
