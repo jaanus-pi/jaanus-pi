@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jaanus, a young web developer from Estonia!
+I'm Jaanus, a young software developer from Estonia!
 
 - 🔭 You're welcomed to check out my portfolio at https://jaanuswebworks.wordpress.com
 
